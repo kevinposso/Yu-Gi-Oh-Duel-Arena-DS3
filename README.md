@@ -145,7 +145,8 @@ Yu-Gi-Oh! y sus personajes son propiedad de sus respectivos dueños; este proyec
 
 ## Capturas de pantalla
 - ![Menú inicial](src/main/resources/assets/ui/menu-background.jpg)
-- ![Carga de cartas ] (Ganador.png)
-- ![Duelo en curso ] 
-- ![Mensaje de error de red ] 
-- ![Ganador final ] 
+[- ![Carga de cartas ]](https://github.com/kevinposso/Yu-Gi-Oh-Duel-Arena-DS3/blob/9f8f6ab80d4e14b4076d027989d1e3e93febdfcf/CargadeCartas.png)
+- ![Ganador.png](https://github.com/kevinposso/Yu-Gi-Oh-Duel-Arena-DS3/blob/9f8f6ab80d4e14b4076d027989d1e3e93febdfcf/Ganador.png)
+[- ![Duelo en curso ] ](https://github.com/kevinposso/Yu-Gi-Oh-Duel-Arena-DS3/blob/9f8f6ab80d4e14b4076d027989d1e3e93febdfcf/Partida.png)
+[- ![Mensaje de error de red ] ](https://github.com/kevinposso/Yu-Gi-Oh-Duel-Arena-DS3/blob/9f8f6ab80d4e14b4076d027989d1e3e93febdfcf/ErrorDeRed.png)
+
