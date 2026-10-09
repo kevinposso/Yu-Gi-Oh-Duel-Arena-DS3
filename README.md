@@ -144,7 +144,7 @@ Las imágenes de las cartas no forman parte del proyecto: se descargan de YGOPro
 Yu-Gi-Oh! y sus personajes son propiedad de sus respectivos dueños; este proyecto es un trabajo académico sin fines comerciales.
 
 ## Capturas de pantalla
-- [ ] Menú inicial
+- [image.png ] Menú inicial
 - [ ] Carga de cartas
 - [ ] Duelo en curso
 - [ ] Mensaje de error de red
