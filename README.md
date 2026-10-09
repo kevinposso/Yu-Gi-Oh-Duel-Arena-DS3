@@ -145,7 +145,7 @@ Yu-Gi-Oh! y sus personajes son propiedad de sus respectivos dueños; este proyec
 
 ## Capturas de pantalla
 - ![Menú inicial](src/main/resources/assets/ui/menu-background.jpg)
-- ![Carga de cartas ] 
+- ![Carga de cartas ] (Ganador.png)
 - ![Duelo en curso ] 
 - ![Mensaje de error de red ] 
 - ![Ganador final ] 
